@@ -1,13 +1,17 @@
-# A-CRM-Application-for-Laptop-Rentals
-💻 Salesforce CRM Laptop Rentals Project
-📌 Overview
-The Salesforce CRM Laptop Rentals System is a cloud-based application designed to manage the end-to-end laptop rental process for organizations, educational institutions, and rental businesses.
-It simplifies inventory tracking, rental requests, approvals, and return management by leveraging Salesforce’s automation tools and Apex programming.
+# 💻 Salesforce CRM Laptop Rentals Project
 
-This project ensures faster approvals, reduced manual errors, and improved transparency for both admins and customers.
+## 📌 Overview
+The **Salesforce CRM Laptop Rentals System** is a cloud-based application designed to manage the end-to-end laptop rental process for organizations, educational institutions, and rental businesses.  
+It simplifies **inventory tracking, rental requests, approvals, and return management** by leveraging Salesforce’s automation tools and Apex programming.
 
-🎥 Project Demo Video
+This project ensures **faster approvals, reduced manual errors, and improved transparency** for both admins and customers.
+
+---
+
+## 🎥 Project Demo Video
 [![Watch the demo](https://img.youtube.com/vi/4jVWArBvP5s/0.jpg)](https://studio.youtube.com/video/PJnQl8wiJKg/edit)
+
+---
 
 
 ## 🚀 Features
