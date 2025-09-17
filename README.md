@@ -7,6 +7,7 @@ It simplifies inventory tracking, rental requests, approvals, and return managem
 This project ensures faster approvals, reduced manual errors, and improved transparency for both admins and customers.
 
 🎥 Project Demo Video
+[![Watch the demo](https://img.youtube.com/vi/4jVWArBvP5s/0.jpg)](https://studio.youtube.com/video/PJnQl8wiJKg/edit)
 
 
 🚀 Features
